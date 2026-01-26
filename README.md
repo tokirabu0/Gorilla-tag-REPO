@@ -2,7 +2,7 @@
 Gorilla tag repositories - this contains every version since  24 Jan. 26
 
 NOTE:
-This is **NOT** a crack of Gorilla Tag. This is a REPO. These are old but still playable versions of gorilla tag that will not work unless...
+This is **NOT** a crack of Gorilla Tag. This is a fresh release REPO (unopened). These are old but still playable versions of gorilla tag that will not work unless...
 A) You own the game on Steam
 B) It's the current version
 
